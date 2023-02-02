@@ -1,0 +1,59 @@
+body{ background-color: rgb(92, 0, 191);
+  
+ font: normal 15pt Arial;
+}
+
+header {
+    color: rgb(255, 255, 255);
+    text-align: center; 
+    font-size:20px;
+    font-style: normal;
+}
+.hor{ 
+    text-align: center;
+    border-radius: 20px;
+    opacity: 0.9;
+    padding: 5px;
+    width: 100px;
+    margin: auto;
+
+}
+
+#turno{
+    background-color: rgb(47, 47, 47);
+    text-align: center;
+    border-radius: 25px;
+    opacity: 0.5;
+    padding: 10px;
+    width: 160px;
+    margin: auto;
+}
+
+section {
+background-color: rgb(239, 235, 230);
+ border-radius: 20px;
+ padding: 15px;
+ width: 320px;
+ margin: auto;
+ box-shadow: 8px 5px 10px rgba(0, 0, 0, 0.307);
+ font-size: 30px;
+}
+
+footer{
+    color: rgb(246, 246, 246);
+    text-align: center;
+    font-style: italic;
+}
+div{
+
+
+    text-align: center;
+}
+img {
+    opacity: 90%;
+    border-radius: 60%;
+     width: 300px;
+     height: 300px;
+     align-items: center;
+}
+
